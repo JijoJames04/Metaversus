@@ -1,3 +1,7 @@
+![Demo-01](demo-01.jpg)
+
+![Demo-02](demo-02.jpg)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
